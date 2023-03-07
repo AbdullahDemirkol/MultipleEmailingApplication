@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6S8JoldwO7Kw46+LQ1owpEjKlwE52wmAabHlKlopxrPoor97TZOanDqZMuOT/lGhjuY7Y7nWTBF4KKDm/CdEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\TopluMailGönderme\\TopluMailGöndermeSistemi\\TopluMailGöndermeSistemi\\TopluMailGöndermeSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
